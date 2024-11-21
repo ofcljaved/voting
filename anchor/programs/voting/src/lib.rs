@@ -2,7 +2,7 @@
 
 use anchor_lang::prelude::*;
 
-declare_id!("AsjZ3kWAUSQRNt2pZVeJkywhZ6gpLpHZmJjduPmKZDZZ");
+declare_id!("ENJ3Sa9vWbDH9bSJudJM9vnLczz79dGjc4SFL52yDmo6");
 
 pub const ANCHOR_DESCRIMINATOR_SIZE: usize = 8;
 
